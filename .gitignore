@@ -1,0 +1,14 @@
+
+
+node_modules/
+build/
+
+venv/
+
+
+*.pyc
+__pycache__/
+
+
+.DS_Store
+*.log
